@@ -1,5 +1,5 @@
 # README
-## CONV LAYER AND FUL CONV LAYER
+## conv layer and full conv layer
  add one conv layer or improve ful conv layer all can improve. 
  add one conv layer make accuracy from 92% up to 96.1%, 
  improve ful conv layer all,  make accuracy from 92% up to 97.3%.
